@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub pages
 
 You can use the [editor on GitHub](https://github.com/PluggaIndustries/pluggaindustries.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+- 👋 Hi, I’m @PluggaIndustries
+- 👀 I’m interested in Python, Arduino, MicroComputer and everything can move or do things!
+- 🌱 I’m currently studying IOT, Web & Big Data at Udine University.
+- 💞️ I’m building an Inmoov Robot!
+- 📫 How to reach me: Instagram <a href="https://www.instagram.com/plugga_industries/"> @plugga </a>
 
 ### Markdown
 
@@ -18,11 +25,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-- 👋 Hi, I’m @PluggaIndustries
-- 👀 I’m interested in Python, Arduino, MicroComputer and everything can move or do things!
-- 🌱 I’m currently studying IOT, Web & Big Data at Udine University.
-- 💞️ I’m building an Inmoov Robot!
-- 📫 How to reach me: Instagram <a href="https://www.instagram.com/plugga_industries/"> @plugga </a>
 
 1. Numbered
 2. List
