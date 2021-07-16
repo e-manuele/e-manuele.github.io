@@ -18,6 +18,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+- 👋 Hi, I’m @PluggaIndustries
+- 👀 I’m interested in Python, Arduino, MicroComputer and everything can move or do things!
+- 🌱 I’m currently studying IOT, Web & Big Data at Udine University.
+- 💞️ I’m building an Inmoov Robot!
+- 📫 How to reach me: Instagram <a href="https://www.instagram.com/plugga_industries/"> @plugga </a>
+
 1. Numbered
 2. List
 
