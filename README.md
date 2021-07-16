@@ -6,13 +6,12 @@
 - 💞️ I’m building an Inmoov Robot & also other stuff.
 - 📫 How to reach me: Instagram <a href="https://www.instagram.com/plugga_industries/"> @plugga </a>
 
-### Code 1
+### Code 
 
 Code is the best way to speak with computer. It will give you headhaches😵 but also give you a magic power🧙.
 
-<script src="https://emgithub.com/embed.py?target=https%3A%2F%2Fgithub.com%2FPluggaIndustries%2Fpluggaindustries.github.io%2Fblob%2Fmain%2Froot%2Flollino.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on" > </script>
 ```markdown
-Syntax highlighted code block
+Esempiop di codice 
 
 # Header 1
 ## Header 2
@@ -29,15 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-# Header 1
-## Header 2
-### Header 3
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Imagine
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PluggaIndustries/pluggaindustries.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
