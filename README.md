@@ -6,7 +6,7 @@
 - 💞️ I’m building an Inmoov Robot & also other stuff.
 - 📫 How to reach me: Instagram <a href="https://www.instagram.com/plugga_industries/"> @plugga </a>
 
-### Code
+### Code 1
 
 Code is the best way to speak with computer. It will give you headhaches😵 but also give you a magic power🧙.
 
