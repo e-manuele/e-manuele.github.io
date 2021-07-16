@@ -11,7 +11,7 @@
 Code is the best way to speak with computer. It will give you headhaches😵 but also give you a magic power🧙.
 
 ```markdown
-Esempiop di codice 
+Esempio di codice 
 
 # Header 1
 ## Header 2
