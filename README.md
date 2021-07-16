@@ -10,7 +10,7 @@
 
 Code is the best way to speak with computer. It will give you headhaches😵 but also give you a magic power🧙.
 
-<script src="https://emgithub.com/PluggaIndustries/pluggaindustries.github.io/blob/main/root/lollino.py"></script>
+<script src="https://emgithub.com/embed.py?target=https%3A%2F%2Fgithub.com%2FPluggaIndustries%2Fpluggaindustries.github.io%2Fblob%2Fmain%2Froot%2Flollino.py&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on" > </script>
 ```markdown
 Syntax highlighted code block
 
