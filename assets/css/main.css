@@ -152,7 +152,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #ffff00;
+		color: #e7746f;
 		text-decoration: underline;
 	}
 
@@ -1614,7 +1614,7 @@ input, select, textarea {
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #f8f32b;
+		background: #e7746f;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1632,7 +1632,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #ffff40;
+			background: #e7746f;
 		}
         /* quando tocchi pulsante */
 		
@@ -1641,7 +1641,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #cccc40; 
+			background: #e7746f;
 		}
 
 		input[type="button"].alt,
@@ -1829,7 +1829,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 1.3em;
-			background-color: #ffff00;
+			background-color: #e7746f;
 			height: 3.5em;
 			text-align: center;
 			color: #fff;
@@ -1844,7 +1844,7 @@ input, select, textarea {
 				position: absolute;
 				bottom: 0;
 				right: -1.2em;
-				border-left: solid 1.25em #ffff00;
+				border-left: solid 1.25em #e7746f;
 				border-top: solid 1.8em transparent;
 				border-bottom: solid 1.8em transparent;
 			}
@@ -2016,7 +2016,7 @@ input, select, textarea {
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #ffff00;
+			background-color: #e7746f0;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -2118,7 +2118,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #ffff00;
+					background: #e7746f;
 					color: #fff !important;
 					font-weight: 700;
 				}
@@ -2199,7 +2199,7 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #ffff00;
+				color: #e7746f;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
