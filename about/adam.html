@@ -1,47 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Adam</title>
-</head>
-<body>
-<section id="intro" class="container">
-    <div class="row">
-        <div class="col-4 col-12-medium">
-            <section class="first">
-                <i class="icon solid featured alt2 fa-cog"></i>
-                <header>
-                    <h2>Open source</h2>
-                </header>
-                <p>Perché col ca**o che mi metto a fare tutto da solo.</p>
-            </section>
-        </div>
-        <div class="col-4 col-12-medium">
-            <section class="middle">
-                <i class="icon solid featured alt fa-bolt"></i>
-                <header>
-                    <h2>Saper fare</h2>
-                </header>
-                <p>Perché c'è sempre bisogno di conoscenza. E di più potenza.</p>
-            </section>
-        </div>
-        <div class="col-4 col-12-medium">
-            <section class="last">
-                <i class="icon solid featured alt2 fa-microchip"></i>
-                <header>
-                    <h2>Il potenziale dell'elettronica</h2>
-                </header>
-                <p>La creatività è fondamentale insieme alla conoscenza per innovare.</p>
-            </section>
-        </div>
-    </div>
-    <footer>
-        <ul class="actions">
-            <li><a href="#" class="button  large">Cose che ho fatto</a></li>
-            <li><a href="#" class="button alt large">Cose che ho provato a fare</a></li>
-        </ul>
-    </footer>
-</section>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <style> canvas {  display: block; } </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+</head>
+<body class="homepage is-preload">
+<div id="page-wrapper">
+
+    <!-- Header -->
+    <section id="header">
+
+        <!-- Logo -->
+        <h1><a href="index.html">E-manuele</a></h1>
+
+<nav id="nav">
+    <ul>
+        <li class="current"><a href="about/adam.html">Home</a></li>
+        <li>
+            <a href="#">Trova</a>
+            <ul>
+                <li><a href="#">Niente</a></li>
+                <li><a href="#">Phrogetti</a>
+                    <ul>
+                        <li><a href="about/adam.html">Adam</a></li>
+                        <li><a href="#">Automazione</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Contatti & siti</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+    </section>
+</div>
+<canvas id="canvas3d"></canvas>
+
+<script type="module">
+    import {Application} from './runtime.js';
+
+    const canvas = document.getElementById('canvas3d');
+    const app = new Application(canvas);
+    app.load('./scene.splinecode');
+</script>
 </body>
+
 </html>
